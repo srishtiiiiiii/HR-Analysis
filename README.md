@@ -37,36 +37,33 @@ Separate dashboards were created for male and female employees to observe gender
 
 ### Key Findings from HR Attrition Analysis
 
-• The dataset includes data for 1,470 employees across multiple departments and job roles.
+• The dataset contains information for 1,470 employees, spanning various departments and job roles across the organization.
 
-• Average salary: ₹6.5K
+• The average salary among employees was approximately ₹6.5K.
 
-• Average age: 37 years
+• The average employee age was 37 years, with an average tenure of 7 years.
 
-• Average tenure: 7 years
+• A total of 237 employees left the company, resulting in an overall attrition rate of 16%.
 
-• Attrition rate: 237 employees (16% of total workforce)
+• The highest attrition was observed among employees aged 26–35, particularly among males, with 70 individuals leaving — accounting for 19.02% of all attrition.
 
-• Highest attrition observed among employees aged 26–35, particularly males (70 individuals, 19.02%).
+Insight: This group had an average salary of ₹4.82K, which may be a contributing factor to their decision to leave.
+The Research & Development department recorded the highest attrition, with 133 employees exiting, especially among Library Technicians and Research Scientists.
 
-Insight: This group had an average salary of ₹4.82K, which may contribute to their decision to leave.
+Insight: The average salary for employees in these roles was found to be just ₹3.24K, which could explain the higher turnover rate in this department.
 
-The Research & Development department faced the highest attrition (133 employees), notably among Library Technicians and Research Scientists.
-
-Insight: Their average salary was ₹3.24K, possibly explaining the high turnover.
-
-Root Causes and Recommended Solutions
+## Root Causes and Recommended Solutions
 
 ### Factor	Insight	Proposed Solution
-• Employment Duration - Majority of attrition happens within the first few years.
-  Implement regular check-ins and performance reviews to support early-career employees.
-• Age - Younger employees exhibit higher attrition rates. 
-  Provide career development programs to retain younger talent.
-• Department - R&D experiences the highest attrition.
-  Address workload, communication gaps, and limited growth opportunities.
-• Job Role - Laboratory Technicians face the highest attrition.
-  Conduct exit interviews or surveys to identify and resolve underlying concerns.
-
+• Employment Duration - Majority of attrition happens within the first few years. <br/>
+       Solution : Implement regular check-ins and performance reviews to support early-career employees.<br/>
+• Age - Younger employees exhibit higher attrition rates. <br/>
+       Solution : Provide career development programs to retain younger talent.<br/>
+• Department - R&D experiences the highest attrition.<br/>
+       Solution : Address workload, communication gaps, and limited growth opportunities.<br/>
+• Job Role - Laboratory Technicians face the highest attrition.<br/>
+       Solution : Conduct exit interviews or surveys to identify and resolve underlying concerns.<br/>
+ 
 ### Conclusion
 • Organizations can significantly reduce attrition and enhance employee satisfaction by taking a data-driven approach to HR management.
 
