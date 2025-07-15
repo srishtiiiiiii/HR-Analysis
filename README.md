@@ -25,6 +25,11 @@ This analytics project was undertaken to investigate employee attrition within a
 
 ### Dashboard Insights
 Separate dashboards were created for male and female employees to observe gender-based attrition patterns.
+## HR Analytics Dashboard
+
+![HR Dashboard](HR%20data%20dashboard.jpg)
+
+
 
 
 ### Key Findings from HR Attrition Analysis
