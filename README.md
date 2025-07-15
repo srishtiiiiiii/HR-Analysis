@@ -29,8 +29,11 @@ Separate dashboards were created for male and female employees to observe gender
 
 ![HR Dashboard](HR%20data%20dashboard.jpg)
 
+### Female Employees
+![HR Dashboard](Female.jpg)
 
-
+### Male Employees
+![HR Dashboard](Male.jpg)
 
 ### Key Findings from HR Attrition Analysis
 
@@ -55,11 +58,14 @@ Insight: Their average salary was ₹3.24K, possibly explaining the high turnove
 Root Causes and Recommended Solutions
 
 ### Factor	Insight	Proposed Solution
-• Employment Duration	- Majority of attrition happens within the first few years.
-• Implement regular check-ins and performance reviews to support early-career employees.
-• Age -	Younger employees exhibit higher attrition rates	Provide career development programs to retain younger talent.
-• Department - R&D experiences the highest attrition	Address workload, communication gaps, and limited growth opportunities.
-• Job Role - Laboratory Technicians face the highest attrition	Conduct exit interviews or surveys to identify and resolve underlying concerns.
+• Employment Duration - Majority of attrition happens within the first few years.
+  Implement regular check-ins and performance reviews to support early-career employees.
+• Age - Younger employees exhibit higher attrition rates. 
+  Provide career development programs to retain younger talent.
+• Department - R&D experiences the highest attrition.
+  Address workload, communication gaps, and limited growth opportunities.
+• Job Role - Laboratory Technicians face the highest attrition.
+  Conduct exit interviews or surveys to identify and resolve underlying concerns.
 
 ### Conclusion
 • Organizations can significantly reduce attrition and enhance employee satisfaction by taking a data-driven approach to HR management.
